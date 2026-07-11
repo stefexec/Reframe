@@ -1,5 +1,7 @@
 # Reframe 🎬📐
 
+> 🔥 **As seen on XDA Developers!** Read the article: ["I replaced every online video editor with one self-hosted app on my NAS"](https://www.xda-developers.com/i-replaced-every-online-video-editor-with-one-self-hosted-app-on-my-nas/#threads)
+
 Reframe is a self-hosted web app for cropping and formatting videos for social media. If you have 16:9 recordings, streams, or clips, you can use Reframe to quickly convert them to 9:16 (TikTok/Reels), 1:1 (Instagram), or other formats. 
 
 Everything runs locally via Docker, so your files never leave your machine.
